@@ -1,4 +1,4 @@
-module ytapi
+module github.com/UltraCoder2512/ytapi
 
 go 1.23.2
 
